@@ -1,6 +1,6 @@
-Esta primeira lista trabalha as estruturas básicas da linguagem, como
+**Esta primeira lista trabalha as estruturas básicas da linguagem, como
 vetores, repetição, decisão e os tipos de dados. É indicada para quem ainda
-precisa melhorar o domínio dos fundamentos da linguagem.
+precisa melhorar o domínio dos fundamentos da linguagem**
 
 
 1) Faça um programa para ler um valor inteiro e que imprima o seu
